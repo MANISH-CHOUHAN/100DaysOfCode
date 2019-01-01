@@ -1,5 +1,8 @@
 # Deepak Choudhary
 # New Year Resolution 
+I am very new in Programming and at this 1-1-2019 new year I start Coding .
+I hope Day by Day i will increase my potential .
+
 
 ### Day 1
 Today I learnt about Git and Github . it is Tough in Biggning. 
