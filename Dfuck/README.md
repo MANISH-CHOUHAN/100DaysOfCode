@@ -8,7 +8,7 @@ I hope Day by Day i will increase my potential .
 Today I learnt about Git and Github . it is Tough in Biggning. 
 Today I submit very easy program but day by day it will become Bigger and harder .
 today i submit my name program in C language .
-I change my Username also which is Now "Hey-Deepak"
+I change my Username also which is Now "Hey-Deepak".
 
 ### Day 2
 Today I am going to Submit If-Else problem programme .
