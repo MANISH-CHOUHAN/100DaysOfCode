@@ -11,6 +11,8 @@ today i submit my name program in C language .
 I change my Username also which is Now "Hey-Deepak"
 
 ### Day 2
-
+Today I am going to Submit If-Else problem programme .
+It is An Odd Even programme in C
+Today I learnt about a Wonderful app that name is YMusic.
 
 ### Day 3
