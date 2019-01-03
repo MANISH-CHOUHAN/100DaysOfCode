@@ -16,3 +16,5 @@ It is An Odd Even programme in C
 Today I learnt about a Wonderful app that name is YMusic.
 
 ### Day 3
+Today I am going to submit Herons Formula which is  used to Calculate Area of Tringle .
+Today I also Learnt About Carding .
