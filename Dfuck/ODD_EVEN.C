@@ -12,7 +12,6 @@ void main()
 		else
 			printf("%d is Odd",a);
 
-
-		getch();
+	         getch();
 
 	}
