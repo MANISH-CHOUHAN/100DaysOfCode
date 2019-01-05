@@ -18,3 +18,7 @@ Today I learnt about a Wonderful app that name is YMusic.
 ### Day 3
 Today I am going to submit Herons Formula which is  used to Calculate Area of Tringle .
 Today I also Learnt About Carding.
+
+### Day 4
+Today I am Going to submit Prime Number Problem .
+This Problem taught me About For and If-Else Concept.
